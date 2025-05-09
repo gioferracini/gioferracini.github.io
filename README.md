@@ -36,8 +36,8 @@ I'm a data enthusiast passionate about turning numbers into insights. This portf
 
 ## 📬 Contact
 
-- LinkedIn: [[linkedin.com/in/yourname](https://linkedin.com/in/yourname)]
-- GitHub: [[github.com/yourusername](https://github.com/yourusername)]
+- LinkedIn: [[linkedin.com/in/giovanni-ferracini](https://linkedin.com/in/giovanni-ferracini)]
+- GitHub: [[github.com/gioferracini](https://github.com/gioferracini)]
 - Email: gioferracini97@gmail.com
 
 ---
